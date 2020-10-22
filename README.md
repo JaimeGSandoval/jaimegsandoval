@@ -25,6 +25,11 @@ Hello:wave: and thank you for visiting my gitub page! I have a passion for codin
 
 ## About Me :smile:
  Coding has become my life. If I go a day without coding it feels odd, and that's mainly because it's such a big part of my everyday experience. I truly enjoy using the combination of imagination and logic to create something new and useful for people, or to just try to figure something out with the skills I've aquired. I wasn't always involed with tech, but I took the plunge at the suggestion of a softball teammate, to whom I'm forever grateful towards for introducing me to this field.  I'd love to bring my skills to a team and look forward to being part of a dev team!
+ 
+ ## Let's Connect! :e-mail:
+ - Portfolio: Coming Soon!
+ - Email: jaime.devs@gmail.com
+ - LinkedIn: https://www.linkedin.com/in/jaime-sandoval-dev/
 
 <!--
 **JaimeGSandoval/jaimegsandoval** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
