@@ -19,9 +19,12 @@ Hello:wave: and thank you for visiting my gitub page! I have a passion for codin
 - CSS3
 - HTML5
 
-## What I'm Working On Right Now :mechanical_arm:
+## What I'm Currently Working On :mechanical_arm:
 - Integrating a Twitter API feature for my Today In Science app.
 - Learning more about AWS EC2 and full stack development
+
+## About Me :smile:
+ Coding has become my life. If I go a day without coding it feels odd, and that's mainly because it's such a big part of my everyday experience. I truly enjoy using the combination of imagination and logic to create something new and useful for people, or to just try to figure something out with the skills I've aquired. I wasn't always involed with tech, but I took the plunge at the suggestion of a softball teammate, to whom I'm forever grateful towards for introducing me to this field.  I'd love to bring my skills to a team and look forward to being part of a dev team!
 
 <!--
 **JaimeGSandoval/jaimegsandoval** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
