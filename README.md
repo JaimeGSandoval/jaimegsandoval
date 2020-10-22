@@ -7,6 +7,7 @@ Hello:wave: and thank you for visiting my gitub page! I have a passion for codin
 - Linkedin: https://www.linkedin.com/in/jaime-sandoval-dev/
 ## Stats :chart_with_upwards_trend:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaimegsandoval&layout=compact)
+
 ## Technologies :floppy_disk:
 
 - JavaScript(ES5/ES6)
