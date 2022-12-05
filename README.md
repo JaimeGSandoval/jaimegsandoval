@@ -4,7 +4,7 @@
 
 Hello:wave: and thank you for visiting my gitub page! I have a passion for coding and I'm hopeful that my github will represent that passion. There's a variety of repos here, all of them have helped me become the developer that I am today. Have a look around and please contact me if you'd like to connect for a project!
 
-- Email: jaime.devs@gmail.com
+- Email: jsandoval.devs@gmail.com
 - Linkedin: https://www.linkedin.com/in/jaime-sandoval-dev/
 
 ## Stats :chart_with_upwards_trend:
