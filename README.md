@@ -17,9 +17,9 @@ Hello:wave: and thank you for visiting my gitub page! I have a passion for codin
 - React.js
 - Node.js
 - Express.js
-- PostgeSQL
+- PostgreSQL
 - Bootstrap(3/4)
-- SASS
+- Sass
 - CSS3
 - HTML5
 
