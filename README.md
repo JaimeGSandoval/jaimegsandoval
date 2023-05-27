@@ -36,4 +36,4 @@ Coding has become my life. If I go a day without coding it feels odd, and that's
 
 - Portfolio: https://jamessandoval.dev/
 - Email: james.devs@protonmail.com
-- LinkedIn: https://www.linkedin.com/in/jaime-sandoval-dev/
+- LinkedIn: https://www.linkedin.com/in/james-sandoval-dev/
