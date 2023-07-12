@@ -29,6 +29,6 @@ Hello and welcome! Here you will find code that I've implemented throughout my c
 
 ## Let's Connect! :e-mail:
 
-- Portfolio: https://jaysandoval.com/
+- Portfolio: https://jaysandoval.com
 - Email: jaime.devs@gmail.com
 - LinkedIn: https://www.linkedin.com/in/jay-sandoval/
